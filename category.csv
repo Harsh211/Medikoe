@@ -19,12 +19,12 @@ Weight Gain
 "Ear, Nose and Throat"
 Stress and Anxiety
 Lungs and Smoking
-Operation
+Critical
 General Problems
 Stress and Anxiety
 Skin
 "Ear, Nose and Throat"
-Operation
+Critical
 Diet and Food
 Diet and Food
 Hair Treatment
@@ -41,7 +41,7 @@ Sexual Problem
 Stress and Anxiety
 Eyes
 Dental
-Operation
+Critical
 Skin
 Sexual Problem
 Sexual Problem
@@ -61,17 +61,15 @@ Skin
 Eyes
 Hair Treatment
 Hair Treatment
-General Problems
+Cold
 Stress and Anxiety
 Stress and Anxiety
 Hair Treatment
 Stress and Anxiety
 Dental
-Others
 Weight Gain
 Dental
 Height
-Others
 Height
 Headache
 Skin
@@ -89,7 +87,7 @@ Sexual Problem
 Weight Gain
 Stress and Anxiety
 Cold
-Operation
+Critical
 Diet and Food
 Hair Treatment
 Weight Loss
@@ -109,7 +107,6 @@ Diet and Food
 Weight Gain
 Eyes
 Weight Loss
-Others
 Weight Gain
 Sexual Problem
 Skin
@@ -117,7 +114,6 @@ Sexual Problem
 Gym
 Diet and Food
 Diet and Food
-Others
 Skin
 Height
 Weight Loss
@@ -135,7 +131,6 @@ Weight Gain
 "Stomach, Kidney and Liver"
 Diet and Food
 Body Pain
-Others
 General Problems
 Gym
 Skin
@@ -154,7 +149,6 @@ Gym
 Gym
 Hair Treatment
 Diet and Food
-Others
 Weight Gain
 Eyes
 Gym
@@ -174,16 +168,14 @@ Weight Gain
 Weight Loss
 Gym
 Gym
-Others
 Skin
 Height
 Skin
-Others
 Gym
 Gym
 Diet and Food
-Others
-Operation
+General Problems
+Critical
 Height
 Skin
 Skin
@@ -219,13 +211,10 @@ Hair Treatment
 Gym
 General Problems
 "Ear, Nose and Throat"
-Others
 General Problems
 Skin
 Skin
 Gym
-Others
-Others
 Hair Treatment
 "Stomach, Kidney and Liver"
 Gym
@@ -238,7 +227,7 @@ Cold
 General Problems
 Gym
 Weight Loss
-Operation
+Critical
 Weight Gain
 Stress and Anxiety
 "Ear, Nose and Throat"
@@ -271,8 +260,6 @@ Weight Loss
 Weight Loss
 Skin
 Gym
-Others
-Others
 Blood Related
 Stress and Anxiety
 "Stomach, Kidney and Liver"
@@ -298,19 +285,16 @@ Dental
 Skin
 Weight Loss
 Diet and Food
-Others
 Weight loss
 Gym
-Operation
+Critical
 Diet and Food
 Others
 Skin
 Cold
 Hair Treatment
-Operation
+Critical
 Weight Loss
-Others
-Others
 Skin
 Hair Treatment
 General Problems
@@ -357,7 +341,6 @@ Hair Treatment
 Height
 Diet and Food
 Gym
-Others
 Skin
 Diet and Food
 Hair Treatment
@@ -390,8 +373,6 @@ Weight Loss
 Cold
 "Stomach, Kidney and Liver"
 Cold
-Others
-Others
 "Ear, Nose and Throat"
 Stress and Anxiety
 Weight Loss
@@ -410,33 +391,25 @@ Skin
 Weight Loss
 Gym
 Body Pain
-Others
 Gym
-Women Problems
+Sexual Problem
 Weight Loss
 Gym
 Weight Gain
 Skin
 Diet and Food
 Diet and Food
-Others
 Diet and Food
-Others
 Gym
 Diet and Food
 Gym
 "Stomach, Kidney and Liver"
-Others
-Others
 Gym
 Gym
-Men
-Others
-Others
+Sexual Problem
 Weight Loss
-Men
 Diet and Food
-Gym
+Diet and Food
 Height
 Weight Loss
 Weight Gain
@@ -450,26 +423,21 @@ Weight Gain
 Weight Gain
 Eyes
 Body Pain
-Others
-Others
 Hair Treatment
 Height
 Weight Gain
 Diet and Food
-Gym
-Others
-Others
-Headache
+Cold
 Weight Loss
 Weight Gain
 Diet and Food
 Weight Gain
-"Stomach, Kidney and Liver"
-Headache
+Weight Loss
+Cold
 Height
 Diet and Food
-Operation
-Diet and Food
+Critical
+Diabetes
 Blood Related
 "Ear, Nose and Throat"
 Weight Loss
@@ -512,13 +480,11 @@ Weight Gain
 Weight Gain
 Skin
 Skin
-Others
-Others
 Blood Related
-Headache
+Cold
 Diet and Food
 "Ear, Nose and Throat"
-Weight Gain
+General Problems
 Blood Related
 Weight Gain
 Weight Gain
@@ -535,7 +501,7 @@ Skin
 General Problems
 "Ear, Nose and Throat"
 Gym
-Stress and Anxiety
+Gym
 General Problems
 Body Pain
 Weight Gain
@@ -550,10 +516,8 @@ Weight Loss
 Gym
 Diabetes
 Diabetes
-Others
-Others
 Stress and Anxiety
-Headache
+Cold
 Weight Loss
 General Problems
 Gym
@@ -578,7 +542,6 @@ Stress and Anxiety
 Sexual Problem
 Diet and Food
 Gym
-Others
 Weight Gain
 Gym
 Gym
@@ -611,14 +574,13 @@ Body Pain
 General Problems
 Gym
 Hair Treatment
-Others
 Skin
 Height
-Headache
+Skin
 Eyes
 Skin
 Gym
-Operation
+Critical
 Cold
 Body Pain
 Diet and Food
@@ -633,9 +595,9 @@ Hair Treatment
 Skin
 Gym
 Gym
+Cold
 Diet and Food
-Diet and Food
-Gym
+Weight Loss
 Skin
 Weight Loss
 Blood Related
@@ -643,18 +605,15 @@ Hair Treatment
 Blood Related
 Gym
 Weight Loss
-Others
+General Problems
 Skin
 Body Pain
 Skin
 General Problems
 Diabetes
-Others
 Gym
-Others
 Body Pain
 Sexual Problem
-Others
 Height
 Weight Loss
 Weight Loss
@@ -668,16 +627,13 @@ Headache
 Weight Loss
 Body Pain
 Diet and Food
-Body Pain
+Critical
 Weight Gain
-Others
-Operation
-Others
+Critical
 Hair Treatment
 Eyes
 Weight Gain
 Eyes
-Others
 Diet and Food
 Skin
 General Problems
@@ -695,12 +651,10 @@ Hair Treatment
 Height
 Hair Treatment
 Weight Loss
-Others
 Weight Gain
 Height
 Weight Gain
 Stress and Anxiety
-Others
 Dental
 Stress and Anxiety
 Height
@@ -718,33 +672,29 @@ Diet and Food
 Diet and Food
 Body Pain
 Weight Gain
-Operation
-Diet and Food
+Critical
+Others
 General Problems
 Skin
 Hair Treatment
 Body Pain
-Others
-Others
 "Ear, Nose and Throat"
 Eyes
-Operation
+Critical
 Height
-Others
-Operation
-Operation
-Operation
+Critical
+Critical
+Critical
 "Ear, Nose and Throat"
 Stress and Anxiety
 General Problems
 Diabetes
-Diet and Food
+General Problems
 Weight Loss
 Hair Treatment
 Diabetes
 Diabetes
 Diet and Food
-Others
 Height
 Cold
 Weight Loss
@@ -755,14 +705,14 @@ Sexual Problem
 Lungs and Smoking
 Sexual Problem
 Body Pain
-Operation
+Body Pain
 Gym
 Gym
 "Stomach, Kidney and Liver"
 Body Pain
 Diet and Food
 Cold
-Operation
+Body Pain
 Weight Loss
 Sexual Problem
 Sexual Problem
@@ -775,9 +725,7 @@ Weight Loss
 Diabetes
 Blood Related
 Diet and Food
-Others
 Skin
-Others
 "Ear, Nose and Throat"
 Stress and Anxiety
 Stress and Anxiety
@@ -792,13 +740,10 @@ Weight Gain
 Weight Loss
 Sexual Problem
 Weight Gain
-Others
 Diet and Food
-Others
 General Problems
 Skin
 Diet and Food
-Others
 Skin
 Skin
 "Ear, Nose and Throat"
@@ -836,7 +781,6 @@ General Problems
 Gym
 Body Pain
 Gym
-Others
 Skin
 Hair Treatment
 Eyes
@@ -869,12 +813,12 @@ Gym
 "Stomach, Kidney and Liver"
 Eyes
 Headache
-Operation
+Critical
 Headache
 Hair Treatment
 General Problems
 Cold
-Eyes
+General Problems
 General Problems
 Cold
 Weight Loss
@@ -896,47 +840,41 @@ Dental
 "Stomach, Kidney and Liver"
 Hair Treatment
 Body Pain
-General Problems
 Weight Gain
 Dental
-Headache
+General Problems
 Diabetes
 Skin
 "Ear, Nose and Throat"
 Hair Treatment
-General Problems
-Sexual Problem
-Others
-Others
-"Stomach, Kidney and Liver"
+Dental
 Weight Loss
 Diet and Food
 Gym
-General Problems
+Gym
 Gym
 Body Pain
 "Ear, Nose and Throat"
 "Ear, Nose and Throat"
 Dental
-Lungs and Smoking
+Critical
 Skin
 Body Pain
-Headache
-Hair Treatment
-General Problems
-General Problems
-Skin
-Body Pain
-Weight Gain
-Gym
-Weight Gain
-Hair Treatment
-Weight Gain
-Eyes
-Gym
-Eyes
-General Problems
 Others
+Hair Treatment
+General Problems
+General Problems
+Skin
+Body Pain
+Weight Gain
+Gym
+Weight Gain
+Hair Treatment
+Weight Gain
+Eyes
+Gym
+Eyes
+General Problems
 Weight Gain
 Weight Loss
 Hair Treatment
@@ -958,7 +896,7 @@ Skin
 General Problems
 Skin
 Skin
-General Problems
+Diet and Food
 Headache
 Diet and Food
 Hair Treatment
@@ -992,14 +930,12 @@ Weight Gain
 Body Pain
 Height
 Weight Gain
-Others
 Weight Gain
 Height
 Skin
-Operation
+Critical
 "Stomach, Kidney and Liver"
 Weight Loss
-Others
 Weight Gain
 Headache
 Height
@@ -1008,7 +944,7 @@ Weight Loss
 Sexual Problem
 Lungs and Smoking
 "Stomach, Kidney and Liver"
-Operation
+Critical
 Hair Treatment
 Weight Loss
 Weight Gain
@@ -1021,10 +957,10 @@ Gym
 General Problems
 Hair Treatment
 Stress and Anxiety
-Gym
 General Problems
 General Problems
-Diet and Food
+General Problems
+Skin
 Gym
 Gym
 Gym
@@ -1035,7 +971,6 @@ Diet and Food
 Diet and Food
 Diet and Food
 Hair Treatment
-Others
 General Problems
 Weight Gain
 Eyes
@@ -1044,13 +979,11 @@ Diet and Food
 Hair Treatment
 Gym
 Hair Treatment
+Weight Loss
 Gym
-Gym
-Gym
+Weight Loss
 General Problems
-Others
-Others
-Operation
+Critical
 Weight Loss
 Weight Loss
 Dental
@@ -1061,7 +994,7 @@ Sexual Problem
 Body Pain
 Gym
 Hair Treatment
-"Stomach, Kidney and Liver"
+Dental
 Hair Treatment
 Dental
 Eyes
@@ -1110,7 +1043,6 @@ Weight Gain
 Diet and Food
 "Ear, Nose and Throat"
 Diet and Food
-Others
 Diet and Food
 Gym
 Weight Loss
@@ -1118,12 +1050,10 @@ Height
 Eyes
 Dental
 General Problems
-Others
-Operation
-Diet and Food
+Critical
+Height
 Gym
 Diet and Food
-Others
 Body Pain
 Gym
 Diet and Food
@@ -1132,13 +1062,11 @@ Weight Loss
 Blood Related
 Gym
 Sexual Problem
-Others
 Height
 Height
 Weight Gain
 Body Pain
 Weight Gain
-Others
 "Ear, Nose and Throat"
 Height
 Eyes
@@ -1151,21 +1079,17 @@ General Problems
 Headache
 General Problems
 "Stomach, Kidney and Liver"
-Dental
 Weight Gain
 General Problems
-Others
 Diabetes
 Stress and Anxiety
-Others
 "Ear, Nose and Throat"
-Cold
 General Problems
 "Ear, Nose and Throat"
 Skin
 Skin
 Eyes
-Operation
+Critical
 Height
 Gym
 Skin
@@ -1175,7 +1099,6 @@ Gym
 Gym
 General Problems
 Stress and Anxiety
-Others
 Weight Loss
 Hair Treatment
 Dental
@@ -1199,3 +1122,294 @@ Sexual Problem
 Sexual Problem
 Skin
 Blood Related
+Hair Treatment
+Sexual Problem
+Sexual Problem
+Lungs and Smoking
+Skin
+Stress and Anxiety
+Sexual Problem
+Gym
+General Problems
+Hair Treatment
+Skin
+Skin
+Skin
+Weight Loss
+Skin
+General Problems
+Weight Gain
+Skin
+Hair Treatment
+Weight Loss
+"Stomach, Kidney and Liver"
+Blood Related
+Gym
+Hair Treatment
+Skin
+Hair Treatment
+Skin
+Gym
+Dental
+Weight Loss
+Skin
+General Problems
+Skin
+Headache
+Gym
+Stress and Anxiety
+Weight Gain
+Skin
+Blood Related
+Sexual Problem
+"Ear, Nose and Throat"
+Weight Loss
+Dental
+Weight Gain
+Weight Gain
+General Problems
+Height
+General Problems
+Hair Treatment
+Hair Treatment
+Weight Gain
+Dental
+Diet and Food
+Eyes
+Skin
+Hair Treatment
+Body Pain
+Hair Treatment
+Hair Treatment
+Gym
+Weight Loss
+Gym
+Skin
+Body Pain
+General Problems
+Sexual Problem
+Hair Treatment
+Gym
+Skin
+Diet and Food
+Skin
+Hair Treatment
+Gym
+General Problems
+Weight Loss
+Eyes
+Cold
+Skin
+Skin
+Skin
+Diabetes
+General Problems
+Hair Treatment
+Hair Treatment
+Hair Treatment
+Diet and Food
+Cold
+Weight Loss
+"Stomach, Kidney and Liver"
+General Problems
+General Problems
+Skin
+Diet and Food
+Hair Treatment
+Gym
+Stress and Anxiety
+Sexual Problem
+Gym
+Dental
+Gym
+Gym
+Stress and Anxiety
+Weight Loss
+General Problems
+Weight Loss
+Dental
+Gym
+Gym
+Weight Loss
+Height
+Body Pain
+Skin
+Skin
+Eyes
+Diabetes
+General Problems
+Weight Loss
+Skin
+Hair Treatment
+"Stomach, Kidney and Liver"
+Skin
+General Problems
+Eyes
+Diet and Food
+Skin
+Gym
+Hair Treatment
+Gym
+Weight Gain
+Sexual Problem
+Height
+Headache
+Gym
+Critical
+Skin
+Body Pain
+Weight Gain
+Diet and Food
+Dental
+Hair Treatment
+Weight Loss
+General Problems
+Hair Treatment
+Weight Loss
+General Problems
+Weight Gain
+Diet and Food
+General Problems
+Skin
+Diet and Food
+Gym
+Hair Treatment
+Sexual Problem
+General Problems
+Gym
+General Problems
+General Problems
+Gym
+"Ear, Nose and Throat"
+Weight Gain
+Headache
+Body Pain
+Blood Related
+Cold
+Weight Gain
+Critical
+Hair Treatment
+Gym
+Gym
+Gym
+Gym
+"Stomach, Kidney and Liver"
+Weight Gain
+Weight Loss
+Weight Gain
+Body Pain
+Weight Loss
+Cold
+Headache
+Diet and Food
+Eyes
+Headache
+Dental
+Skin
+Skin
+Gym
+Stress and Anxiety
+Gym
+Hair Treatment
+Weight Gain
+gym
+Sexual Problem
+Weight Gain
+Skin
+Lungs and Smoking
+Sexual Problem
+Skin
+Headache
+General Problems
+Gym
+"Stomach, Kidney and Liver"
+Headache
+Weight Loss
+Diet and Food
+Weight Loss
+Cold
+Weight Loss
+Eyes
+Cold
+"Stomach, Kidney and Liver"
+Weight Gain
+Body Pain
+Headache
+Headache
+Gym
+General Problems
+"Stomach, Kidney and Liver"
+Sexual Problem
+Headache
+Gym
+"Ear, Nose and Throat"
+Diet and Food
+Weight Gain
+Weight Loss
+Headache
+Dental
+Headache
+General Problems
+Eyes
+Weight Gain
+Dental
+Cold
+Weight Loss
+General Problems
+Skin
+Hair Treatment
+Eyes
+Weight Loss
+Hair Treatment
+General Problems
+Body Pain
+Body Pain
+General Problems
+Dental
+Gym
+Lungs and Smoking
+Dental
+General Problems
+Dental
+Diet and Food
+Diet and Food
+Dental
+"Ear, Nose and Throat"
+Skin
+Dental
+Body Pain
+Dental
+Diet and Food
+Headache
+Stress and Anxiety
+Weight Gain
+"Stomach, Kidney and Liver"
+gym
+Hair Treatment
+Sexual Problem
+Dental
+"Stomach, Kidney and Liver"
+General Problems
+Dental
+Gym
+Sexual Problem
+General Problems
+Dental
+Critical
+Blood Related
+Hair Treatment
+Hair Treatment
+"Stomach, Kidney and Liver"
+"Stomach, Kidney and Liver"
+"Stomach, Kidney and Liver"
+"Stomach, Kidney and Liver"
+Critical
+Critical
+Critical
+Critical
+Critical
+Critical
+Critical
+Critical
+Critical
+Critical
